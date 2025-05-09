@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Nueva serie</title>
+        </head>
+        <body>
+            <he>
+            <h1> Nueva serie</h1>
+            <h2>que es una serie?</h2>
+            <p>Una serie es una sucesión de números que siguen un patrón o regla específica. Por ejemplo, la serie de los números pares: 2, 4, 6, 8, 10, ...</p>
+            </header>
+            <section>
+                <h2>Ejemplo de serie</h2>
+                <p>La serie de Fibonacci es un ejemplo famoso de una serie matemática. Comienza con 0 y 1, y cada número siguiente es la suma de los dos anteriores: 0, 1, 1, 2, 3, 5, 8, 13, ...</p>
+        </body>
+        <footer>
+            <p>Creado por <div Netflix="Feliz"></div></p>
+            <p>Fecha de creación: 2023-10-01</p>
+            <p>Última actualización: 2023-10-01</p><base href="Nueva serie.html">
+        </footer>
+        <script src="script.js"></script>
